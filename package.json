@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url https://shubhapradha.github.io/30daybookmarks/"
+    "build": "parcel build index.html --public-url https://shubhapradha.github.io/30daybookmarks/",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Shubhapradha N S",
   "license": "ISC",
