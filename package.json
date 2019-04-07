@@ -4,8 +4,8 @@
   "description": "30DayBookmarks",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url https://shubhapradha.github.io/30daybookmarks/"
   },
   "author": "Shubhapradha N S",
   "license": "ISC",
