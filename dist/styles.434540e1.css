@@ -36,11 +36,15 @@ img {
 }
 
 .mainSection {
-  margin: 20px;
+  margin-left: 20px;
+}
+
+.block {
+  padding-bottom: 30px;
 }
 
 .headSection {
-  margin: 50px 20px 10px 20px;
+  margin: 0px 0px 10px 40px;
 }
 
 .bodySection {
@@ -65,16 +69,15 @@ img {
   background-color: #EAF6FF;
 }
 
-.tabimg {
+.tabimg img {
   background-image: url("/bookmark_mess.5ba1cf03.jpg");
   background-size: cover;
   border: 2px solid #cecece;
-  height: 300px;
   overflow: hidden;
 }
 
 .points {
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 10px;
 }
 .points li {

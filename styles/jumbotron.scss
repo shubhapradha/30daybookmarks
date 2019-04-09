@@ -2,16 +2,15 @@
   background-color: #EAF6FF;
 }
 
-.tabimg {
+.tabimg img {
   background-image: url("../assets/bookmark_mess.jpg");
   background-size: cover;
   border: 2px solid #cecece;
-  height: 300px;
   overflow: hidden;
 }
 
 .points {
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 10px;
   li {
     padding:2px;
